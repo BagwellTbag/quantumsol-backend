@@ -1,1 +1,0 @@
-# quantumsol-backend
